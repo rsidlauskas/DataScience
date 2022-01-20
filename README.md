@@ -1,5 +1,5 @@
 # DataScience
-#### Portfólio de estudo e projetos referente - Pós em Ciência de Dados e Inteligência Artificial
+#### Portfólio de estudo e projetos referente a Pós em Ciência de Dados e Inteligência Artificial
 
 Estou no mundo da Tecnologia da Informação desde 1996 e pude durante estes anos todos acompanhar de perto a evolução da tecnologia.  
 
